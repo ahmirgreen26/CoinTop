@@ -1,0 +1,92 @@
+\*This is technical documentation, not to be compared to my final works\*
+
+#Enable CoinTop portal via mobile application
+
+#Mobile App Prompt Series 
+#Automatically prompt a 'new' user to create an account i.e. account set up
+#Set up account via phone number verification and email verification - once completed confetti animation will spark
+#It will ask you to sign in through your email verification link, bringing you back to the mobile appp to then allow you to update security settings
+#Initial security settings will primarily be to allow the user to input a custom 6-digit password - once completed confetti animation will spark
+#The last window will be asking the user if they would like to refer any of their contacts from twitter, instagram, facebook or  
+#	phone book. CoinTop will issue a referral link to her selected group. - once completed confetti animation will spark
+#It will then showcase a window to notify the user their registration is complete
+#It will then show the dynamic CoinTop GUI, this will be simple to navigate
+#	there will be 30 initial offerings of coins to choose from 
+#1. CoinTop 
+#2. XRP
+#3. Bitcoin
+#4. Ethereum
+#5. Cardano 
+#6. Flare Networks
+#7. Safemoon
+#8. Shiba Inu Coin
+#9. Tron
+#10. VeChain
+#11. CasinoCoin
+#12. FileCoin
+#13. Polkadot
+#14. Orion Protocol 
+#15. Polygon
+#16. Litecoin
+#17. Hadera Hashgraph
+#18. Dogecoin
+#19. Binance 
+#20. Theta 
+#21. Klever
+#22. Theta Fuel
+#23. VeThor
+#24. ZCash
+#25. Monero 
+#26. Cryto.Com
+#27. Enjin 
+#28. Nexo
+#29. XDC
+#30. ??? - There will be a new coin introduced and dissolved from platform every (1) year, do not fear, the blockchain will store data ensuring that 
+#		   if there are any transactions using this coin within our application you will have every means to exchange that tokens value with another 
+#		   token within the app. We recommend holding onto atleast one other "tenured" coin (top 29 coins)
+# You will select your coin of choice and it will describe the benefits of being the host of each coin,
+# 	there will be an annual percentage yield associated with the holding of your tokens on this platform 
+#	which can fluctuate to the upside depending on if you allow yur coins to be staked and held on the application for periods of time (1 month, 3 months, 6 months, 1 year)
+#	as well as information regarding tokens market cap, current supply, Return on investment: on the day, month, 3 month, 1 year and 5 years 
+#	just scroll the tab	below to pick section of time, burn rate (all - if applicable)
+#Among the cool stats, you will be given four options when clicking on this coin: topup, withdraw, earn, purchase 'tokard^tm', exchange, link - Tokard is short for token card 
+# You will not be able to spend unless you have the 'tokard' for your coin of choice 
+
+#if user select topup, user can purchase tokens from site with debit card, credit card, or deposit using unique address given to them
+
+#if user select withdraw, user will be able to send his coins off the platform although the 
+#fees must be paid using the applications' native token "CoinTop" or XRP - ONLY! -  
+
+#if user select earn, user will be given ability to make choice of hodl duration for 'any day withdrawal', 'one month', '3 month', '6 month', and 'year'
+
+#if user selects purchase 'tokard' option, user will be given ability to choose from the given 30 coins 
+# - "FYI CoinTop is the best option, although it costs three times as much as the other tokards."
+
+#if user selects exchange, there will be new window showcasing two coins stating from: *insert Coin want to sell off* and to: *insert coin you want to receive*
+
+#if user selects link, he will have ability to link a bank account, debit card, or credit card to his account(s)
+
+#every window will have cancel window button to navigate to home screen
+
+#User will receive notifications when daily interest has been calculated and assigned to his account(s), when allowed user has accessed account, 
+#	when money has been deposited or withdrawn, icluding purchases made.
+
+#for future app access 
+#		issue if loop - existing user will be prompted with entering their unique PIN code to access app
+#		To then be granted privilege to their account and CoinTop GUI
+
+#settings updates for existing users
+#Feature - Security settings will consist of who you allow to have access to your wallet for a certain amount of your portfolio - "very cool concept"
+#	You will be able to disect any amount of your account to any body you personally trust. They will not be able to see your entire account althoguh you will be able to 
+#	send them a unique passage pin to access your account and the currency left to the new user, therefore meaning all that must be done to use 
+#	this money is have a tokard or go to website that allows crypto purchases or transfer coins into fiat to withdraw directly to a debit or credit card.
+
+
+
+
+
+
+
+
+
+	
